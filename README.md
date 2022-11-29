@@ -9,13 +9,21 @@ I am a strong believer in the right tool for the right job. I also believe that 
 
 I have spent the last 5 years primarily in the React ecosystem (with some Nodejs, Dart & Flutter mixed in). Alongside this I covered roles in UI Design & UX Design.
 
+There are languages, frameworks & tools that I prefer over others, but I can fit in & upskill into any existing setup as it’s required
+
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/traaidmark/)
 
 ## Work Interests
 - Frontend Development
 - App Development
 - Growing my experience in backend / devops
-- Being a better human than I was yesterday 
+- Being a better human than I was yesterday
+
+## Tech Interests
+- Really enjoying the Dart / Flutter thing
+- Spending more time with other Javascript frameworks
+  - Vue
+  - Svelte
 
 ## 🌱 I’m currently learning ...
 - Dart
